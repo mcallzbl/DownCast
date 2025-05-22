@@ -1,4 +1,4 @@
-package com.mcallzbl.android_starter
+package com.mcallzbl.downcast
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp

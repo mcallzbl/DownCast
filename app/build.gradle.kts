@@ -10,11 +10,11 @@ plugins {
 }
 
 android {
-    namespace = "com.mcallzbl.android_starter"
+    namespace = "com.mcallzbl.downcast"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.mcallzbl.android_starter"
+        applicationId = "com.mcallzbl.downcast"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
